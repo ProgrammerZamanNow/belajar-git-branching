@@ -1,2 +1,3 @@
 Ini adalah file3.txt
 Seharusnya masih tetep ada baris ke 2
+Feature 3
