@@ -2,3 +2,4 @@ Menambah file1.txt
 Menambah baris di file1.txt
 Feature 1
 Feature A
+Feature B
