@@ -3,3 +3,4 @@ Menambah baris di file2.txt
 Feature 2
 Feature A
 Feature Rebase
+Feature Merge Squash
